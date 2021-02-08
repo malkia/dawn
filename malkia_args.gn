@@ -1,0 +1,15 @@
+angle_enable_overlay=true
+angle_enable_perf_counter_output=true
+angle_enable_vulkan_validation_layers=true
+compiler_timing=true
+dawn_complete_static_libs=true
+dawn_enable_cross_reflection=true
+dawn_enable_opengl=true
+dawn_enable_vulkan_loader=true
+dawn_enable_wgsl=true
+enable_segment_heap=true
+is_component_build=true
+is_debug=false
+symbol_level=2
+target_winuwp_family="desktop"
+win_linker_timing=true
